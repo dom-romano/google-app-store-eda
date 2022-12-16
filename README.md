@@ -1,2 +1,2 @@
-# google-app-store-eda
-Exploratory data analysis of a Kaggle dataset containing data on over 2 million apps in the Google Play Store
+# Google App Store Exploratory Data Analysis
+This dataset was retrieved from Kaggle (https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps). It contains information about downloads, ratings, and other application information about roughly 2.3 million applications from the Google Play Store as of June 2021. This data will be useful in this analysis for app developers to see how certain aspects of their app will affect downloads and ratings.
